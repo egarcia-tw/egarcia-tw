@@ -46,4 +46,4 @@ setTimeout(function() {
         link.appendChild(document.createTextNode(match[0]));
         return link;
     });
-}, 5000); // bumped to 5 seconds due to slack loading times
+}, 1000); // bumped to 5 seconds due to slack loading times
