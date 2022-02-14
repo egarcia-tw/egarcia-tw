@@ -4,7 +4,8 @@
 // @description Link JIRA issues by patterns. Change variables below to match your issue pattern and JIRA URL
 // @include     https://app.slack.com/*
 // @include     https://github.com/Tradeswell/*
-// @version     1.01
+// @updateURL   https://raw.githubusercontent.com/egarcia-tw/egarcia-tw/main/jira-link/user.js
+// @version     1.02
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // ==/UserScript==
 
